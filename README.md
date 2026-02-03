@@ -3,6 +3,6 @@ This repository will help Mechanical Engineers in GJ 123 University of Idaho (an
 
 Name of folders in this repository:
 1. "Example code" [this folder contains extra codes that can help uses]
-   - That
+   - Open a binary file
 2. "particle_Image_Velocimetry"
 3. "proper_Orthogonal_Decomposition"
