@@ -5,3 +5,4 @@ Name of folders in this repository:
 1. "Example code" [this folder contains extra codes that can help uses]
    - That
 2. "particle_Image_Velocimetry"
+3. "proper_Orthogonal_Decomposition"
